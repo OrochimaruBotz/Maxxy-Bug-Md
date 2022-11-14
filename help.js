@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
+return`━━━❲ 𝐒𝐮𝐧𝐠 𝐉𝐢𝐧𝐰𝐨𝐨 ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃🖇️ ID : @${sender.split('@')[0]}
@@ -700,7 +700,7 @@ return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
 ┃⭐ ${prefix}nsfw_avatar
 ┗━━━━━━━━━━━━\n
 ☕Sc:chat owner
-☎️Pemilik bot: https://wa.me//6285380166282
+☎️Pemilik bot: https://wa.me//6288804947282
 `
 }
 
@@ -726,11 +726,11 @@ return`──「 *MENU DONATE* 」──
 Hi Kak *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Pulsa Telkom*
-Number: 085295374964
+Number: 088804947282
 
 *Payment Dana*
-Number: 085380166282
-A/N: kahfiaja
+Number: 0888804947282
+A/N: humanzz
 
 *Payment Gopay*
 Number: 
@@ -745,8 +745,8 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ
- • *Umur:* 17 tahun
+ • *Nama:* HumanzzZ
+ • *Umur:* 13 tahun
  • *Hoby:* Turu/Game
  • *Askot:* Indonesia,Aceh Timur
  • *Konten:* Creator
@@ -754,8 +754,7 @@ return`──「 *INFO OWNER* 」──
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085380166282
- • *Youtube:* Yt Maxxy Botz 
- • *Github:* Frezzy-XD
+ • *Whatsapp:* 088804947282
+ • *Github:* OrochimaruBotz
  `
 }
